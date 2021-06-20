@@ -1,0 +1,24 @@
+< platform _ 1001 _ 00.nc > 
+is a source code file for CNC machining aluminum, containing 8 toolpaths, and 4 tool bit changes, and one material stock part reversal/material stock flip
+
+tool bits; 
+1/8" 2 flute square endmill
+1/8" 2 flute ballmill
+
+tool bits utilized in the < CNC Machining Demonstration >;
+Carbide3D #102 .125" flat cutter 
+Carbide3D #101 .125" ball cutter
+< https://shop.carbide3D.com >
+
+toolpaths;
+Side 00, Facing, 1/8" 2 flute square endmill
+Side 00, Spiral, 1/8" 2 flute ballmill
+Side 00, Morphed Spiral, 1/8" 2 flute ballmill
+Side 00, Parallel, 1/8" 2 flute ballmill
+Material Part Reversal/Flip Material  
+Side 01, Facing, 1/8" 2 flute square endmill
+Side 01, Spiral, 1/8" 2 flute ballmill
+Side 01, Parallel, 1/8" 2 flute ballmill
+Side 01, Morphed Spiral, 1/8" 2 flute ballmill
+
+
